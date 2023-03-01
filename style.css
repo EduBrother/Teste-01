@@ -1,0 +1,101 @@
+body{
+    
+    margin-top: 100px;
+    background-color: #164c64;
+    color: #ff8a76;
+
+} 
+
+h1{
+    
+    margin-left: 550px;
+    font: normal 45pt Arial;
+
+}
+
+#gpalv, #h1{
+
+    display:inline;
+    
+    
+
+}
+
+#gpalv{ /*select onde guarda as palavras */
+
+    text-align: center;
+    margin-top: 50px;
+    margin-inline: left; 
+    width: 200px;
+    font: normal 18px Arial;
+    background-color: #164c64;
+    color: #ff8a76;
+
+}
+
+#txtpala , #gpalvr{ /*Input de texto e o botão de gauardar palavras*/
+    
+    margin-left: 650px;
+    font: normal 18px Arial;
+
+}
+
+#gpalvr{
+    cursor: pointer;
+    color:#ff8a76;
+    border-radius: 20px;
+    background-color: #164c64;
+    
+}
+
+#gpalvr:hover{
+    background-color: rgb(43, 43, 43);
+}
+
+#clean ,#sorte{
+    
+    display: inline;
+    
+
+}
+
+
+
+#clean :hover{
+
+    cursor: pointer;
+    background-color: rgba(100, 100, 100, 0.308);
+}
+
+#Sortear:hover{
+
+    cursor: pointer;
+    background-color: rgb(43, 43, 43);
+
+}
+
+#limpar{
+
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: #164c64;
+    color: #ff8a76;
+
+}
+#limpar:hover{
+    background-color: rgb(43, 43, 43);
+}
+
+#Sortear{/*botão de sortear*/
+
+    margin-left: 600px;
+    width: 250px;
+    height: 60px;
+    border-radius: 20px;
+    color: #ff8a76;
+    background-color: #164c64;
+    
+}
+
+ 
